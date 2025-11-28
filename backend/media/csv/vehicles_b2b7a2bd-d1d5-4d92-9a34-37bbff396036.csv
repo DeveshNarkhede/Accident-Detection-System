@@ -1,0 +1,6 @@
+vehicle_id,avg_speed_kmh,max_speed_kmh,last_speed_kmh,max_probability,latest_probability,frames_tracked,first_frame,last_frame,is_accident_vehicle,accident_frame,last_bbox
+17,1.606,167.118,0.0,1.0,0.239,50,645,1433,False,,"(119, 50, 264, 123)"
+34,5.365,206.966,3.055,1.0,0.245,50,1095,1433,False,,"(100, 108, 168, 148)"
+40,7.323,46.753,8.64,1.0,0.239,50,1229,1433,False,,"(246, 86, 388, 155)"
+48,0.376,2.16,0.0,0.327,0.245,24,1410,1433,False,,"(96, 87, 128, 114)"
+49,0.0,0.0,0.0,0.21,0.209,1,1432,1432,False,,"(535, 41, 639, 91)"
