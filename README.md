@@ -120,7 +120,7 @@ AcciDetect/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prathamesh9164/AcciDetect---Accident-Prediction-Detection.git
+git clone https://github.com/DeveshNarkhede/Accident-Detection-System/.git
 cd AcciDetect---Accident-Prediction-Detection
 ```
 
@@ -338,7 +338,7 @@ This project is for educational and research purposes. Feel free to use, modify,
 
 ## 👨‍💻 Author
 
-**Prathamesh Talele** — [@prathamesh9164](https://github.com/prathamesh9164)
+**Devesh Narkhede**
 
 ---
 
