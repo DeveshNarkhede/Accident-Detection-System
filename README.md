@@ -330,6 +330,23 @@ Key settings are in `backend/accident_detection/settings.py`:
 
 ---
 
+
+---
+Most Important thing for Alert
+Steps:-
+1. Open your Google Account
+2. Enable 2-Step Verification
+3. Go to App Passwords:
+https://myaccount.google.com/apppasswords
+4.Select:
+App: Mail
+Device: Other (AcciDetect)
+5.Google generates a 16-character password
+
+Example:
+EMAIL_HOST_PASSWORD=abcd efgh ijkl mnop
+Use that password (without spaces).
+---
 ## 📄 License
 
 This project is for educational and research purposes. Feel free to use, modify, and distribute.
