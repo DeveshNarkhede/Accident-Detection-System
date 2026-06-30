@@ -15,11 +15,11 @@
 
 ## 🎥 Project Demo
 
-https://github.com/user-attachments/assets/your-video-id
+[https://github.com/user-attachments/assets/your-video-id](https://github.com/DeveshNarkhede/Accident-Detection-System/blob/main/Recorded%20Video.mp4)
 
 Or download the demo directly:
 
-📥 **[demo.mp4](demo/demo.mp4)**
+📥 **[demo.mp4](Recorded Video.mp4)**
 
 ---
 ## ✨ Features
