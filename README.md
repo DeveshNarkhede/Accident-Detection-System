@@ -11,7 +11,7 @@
 
 > **AcciDetect** is an AI-powered road accident detection and prediction system. It uses **YOLOv5/YOLOv8** object detection and a **physics-based collision probability model** to analyze pre-recorded traffic videos or real-time webcam/CCTV feeds — tracking vehicles, estimating speeds, and predicting collisions before they happen.
 
----Recorded Video.mp4
+---
 
 ## 🎥 Project Demo
 
@@ -19,7 +19,7 @@
 
 Or download the demo directly:
 
-📥 **[demo.mp4](Recorded Video.mp4)**
+📥 **[demo.mp4](/Recorded Video.mp4)**
 
 ---
 ## ✨ Features
